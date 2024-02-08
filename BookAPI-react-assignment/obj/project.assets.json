@@ -4437,19 +4437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< Updated upstream
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj",
-      "projectName": "BookAPI-react-assignment",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\nmanoj\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj",
       "projectName": "BookAPI-react-assignment",
       "projectPath": "C:\\Users\\nmanoj\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj",
       "packagesPath": "C:\\Users\\nmanoj\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nmanoj\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\obj\\",
->>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nmanoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4515,5 +4507,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\nmanoj\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

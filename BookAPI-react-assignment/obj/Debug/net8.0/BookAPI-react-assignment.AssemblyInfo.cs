@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookAPI-react-assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f6ecbabdb5522a06c6beadb8de3b65d9a8cba4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+816d3c426410eddbb834b1d29b55fd164f9fa502")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookAPI-react-assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookAPI-react-assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< Updated upstream
-    "C:\\Users\\ASUS\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\ASUS\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj",
-        "projectName": "BookAPI-react-assignment",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\obj\\",
-=======
     "C:\\Users\\nmanoj\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "C:\\Users\\nmanoj\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj",
         "packagesPath": "C:\\Users\\nmanoj\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nmanoj\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\obj\\",
->>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nmanoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
